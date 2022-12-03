@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kelvinzap
 - 👀 I’m interested in api
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on a website
+- 🌱 I’m a fullstack .NET developer
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me chisom859@gmail.com
 
 <!---
