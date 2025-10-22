@@ -14,7 +14,7 @@
 - Earn **AZ-204** and **AZ-400** certifications this year  
 - Build and document end-to-end cloud projects  
 - Contribute to open source in the .NET ecosystem  
-- Prepare for the **Global Talent Visa** through technical writing, community contributions, and impactful projects
+
 
 📫 How to reach me:
 - [LinkedIn](https://linkedin.com/in/kelvinzap)
